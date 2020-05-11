@@ -1,10 +1,10 @@
-Markup :  # Chess Solitaire #
+# Chess Solitaire #
 
-Markup :  - - - -
+- - - -
 
 A command line Chess Solitaire game build using Eiffel.
 
- Markup : * DEsign Patterns Used
-              * Singleton Pattern
-              * Command Pattern
+* Design Patterns Used
+ * Singleton Pattern
+ * Command Pattern
 
